@@ -1,0 +1,24 @@
+.slide_img img {
+    width: 250px;
+    position: absolute;
+    top: 100px;
+}
+
+p {
+    width: 300px;
+}
+
+strong {
+    font-size: 22px;
+    
+
+}
+
+ion-slides {
+    height: 100%;
+  }
+  
+ion-slide.slide_img.md.swiper-slide.swiper-zoom-container.hydrated.swiper-slide-active {
+    height: 583px;
+    text-underline-position: below;
+}
